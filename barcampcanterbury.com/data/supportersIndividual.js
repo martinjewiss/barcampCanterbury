@@ -6,6 +6,7 @@ build_supportersIndividual({
 		{href:"https://www.martinellis.me/", name:"Mex", description:"Cyber Security Guy"},
 		{href:"https://carl.saggs.co.uk/", name:"Bag", description:""},
 		{href:"www.harmonyinautumn.com", name:"Matthew Jones", description:"Video dude"},
+		{href:"https://www.linkedin.com/in/martin-jewiss/", name:"Martin Jewiss", description:"Innovation and CX"},
 	],
 	"2022": [
 		{href:"https://www.cs.kent.ac.uk/people/staff/dk246/", name:"Daniel Knox", description:""},
